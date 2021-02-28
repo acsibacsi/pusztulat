@@ -1,2 +1,0 @@
-# pusztulat
-pusztulat.hu weboldal
