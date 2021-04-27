@@ -35,3 +35,5 @@ news site
 <h2 align="center">
 <img src="img/pusztulat_db.png" alt="db_model" width="664">
 </h2>
+
+The backend for this project can be found at [pusztulat_backend](https://github.com/acsibacsi/pusztulat_backend)
