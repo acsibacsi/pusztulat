@@ -37,3 +37,5 @@ news site
 </h2>
 
 The backend for this project can be found at [pusztulat_backend](https://github.com/acsibacsi/pusztulat_backend)
+
+The frontend for this project can be found at [pusztulat_frontend](https://github.com/acsibacsi/pusztulat_frontend)
